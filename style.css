@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color:#335C67;
+    background-color:rgb(51, 92, 103);
     text-align: center;
 }
 h1{
@@ -46,8 +46,8 @@ h1{
     border: none;
     box-shadow:0 0 1rem rgba(0,0,0,0.3);
     font-size: 10vmin;
-    color: #9E2A2B;
-    background-color: #FFF3B0;
+    color: rgb(158, 42, 43);
+    background-color: rgb(255, 243, 176)0;
 }
 .box:hover{
     background-color: rgb(247, 222, 79);
@@ -55,14 +55,14 @@ h1{
 #reset-btn,#new-btn{
     padding: 1rem;
     font-size:1rem;
-    background-color: #E09F3E;
-    color: #540B0E;
+    background-color: rgb(224, 159, 62);
+    color: rgb(84, 11, 14);
     border-radius: 1rem;
     cursor: pointer;
     border: none;
 }
 #reset-btn:hover,#new-btn:hover{
-    background-color:#dc962e ;
+    background-color:rgb(220, 150, 46) ;
 }
 
 .hide{
